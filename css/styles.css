@@ -10090,10 +10090,10 @@ hr.coffe {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #7D4242;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #7D4242 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
